@@ -1,11 +1,21 @@
-# Way to the Web Limited Scripts
+# ConfigServer Scripts (CSF/CSE, CMC/CMM/CMQ)
 
-### All files within this repository are subject to the [GPL license](LICENSE.txt) as outlined in [COPYING.md](COPYING.md)
+This is a fork of the final versions of the ConfigServer (Way to the Web) Linux scripts.
 
-These are the final copies of the scripts.
+## On-going Works
 
-There is no intention to update any of these files, so any PR's or other contact will not receive a response. 
+TBC.
 
-For uninstallation of any of our scripts, go to the [uninstallers](uninstallers) directory.
+## Uninstallation
 
+For uninstallation of any of the scripts, go to the [uninstallers](uninstallers) directory.
 
+## R.I.P. CXS
+
+You will be missed!
+
+We tried to get it open-sourced. :(
+
+## License: GPLv3
+
+See LICENSE.txt.
